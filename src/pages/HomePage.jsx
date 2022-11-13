@@ -12,7 +12,6 @@ export const HomePage = () => {
   const [billing, setBilling] = useState(false);
   const [reporting, setReporting] = useState(false);
   const [timeOff, setTimeOff] = useState(false);
-  const [video, setVideo] = useState(false);
   const [softwareDevelopers, setSoftwareDevelopers] = useState(true);
   const [marketers, setMarketers] = useState(false);
   const [designers, setDesigners] = useState(false);
